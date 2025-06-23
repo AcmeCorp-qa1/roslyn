@@ -13,7 +13,7 @@ Roslyn is the open-source implementation of both the C# and Visual Basic compile
 If you want to suggest a new feature for the C# or Visual Basic languages go here:
 - [dotnet/csharplang](https://github.com/dotnet/csharplang) for C# specific issues
 - [dotnet/vblang](https://github.com/dotnet/vblang) for VB-specific features
-- [dotnet/csharplang](https://github.com/dotnet/csharplang) for features that affect both languages
+- [dotnet/csharplang](https://github.com/dotnet/csharplang) for features  affect both languages
 
 ### Contributing
 
